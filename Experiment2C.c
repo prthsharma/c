@@ -17,4 +17,4 @@ int main() {
     printf("Distance = %.2f\n", distance);
 
     return 0;
-} 
+}  
