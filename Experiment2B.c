@@ -1,4 +1,4 @@
-// Arithmetic operations using additions, subtraction, multiplication, and remainder operations.
+// Area and perimeter of circle, square, and rectangle.
 
 #include <stdio.h>
 
