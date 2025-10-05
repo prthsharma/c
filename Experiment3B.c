@@ -1,4 +1,4 @@
-// Check whether the alphabet is a vovel or consonant.
+// Check whether the alphabet is a vowel or consonant.
 
 #include <stdio.h>
 
@@ -17,4 +17,4 @@ int main() {
     }
 
     return 0;
-} 
+}  
