@@ -1,3 +1,5 @@
+//Check is the number is prime or not
+
 #include <stdio.h>
 
 int main() {
@@ -26,3 +28,4 @@ int main() {
 
     return 0;
 }
+
