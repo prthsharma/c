@@ -1,3 +1,5 @@
+// Maximum of n numbers using for loop
+
 #include <stdio.h>
 
 int main() {
@@ -20,3 +22,4 @@ int main() {
     printf("Maximum number = %d\n", max);
     return 0;
 }
+
