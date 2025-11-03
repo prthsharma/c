@@ -1,3 +1,5 @@
+// Factorial of a Number using Loop
+
 #include <stdio.h>
 
 int main() {
@@ -14,3 +16,4 @@ int main() {
     printf("Factorial of %d = %ld\n", n, fact);
     return 0;
 }
+
