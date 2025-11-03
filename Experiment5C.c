@@ -1,3 +1,5 @@
+// Check if the number is Armstrong or Not
+
 #include <stdio.h>
 #include <math.h>
 
@@ -28,4 +30,5 @@ int main() {
         printf("Not an Armstrong number\n");
 
     return 0;
+
 }
